@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "298937364738",
+    "firebase_url": "https://prem-21727.firebaseio.com",
+    "project_id": "prem-21727",
+    "storage_bucket": "prem-21727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298937364738:android:2e715ed1324a4547",
+        "android_client_info": {
+          "package_name": "com.example.nirmit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298937364738-voev3g80k0c8flim38pbi75svf2vij8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirmit.myapplication",
+            "certificate_hash": "4EBA83F6CD0D6582871D22932E8E44AF649DA25A"
+          }
+        },
+        {
+          "client_id": "298937364738-rchnl6k04ale5droa52dql0feknuctbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwiN0IKwdMnRHcJT2F60wzEBomEgra5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
